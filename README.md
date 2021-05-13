@@ -8,3 +8,4 @@ This portfolio is meant to list all of my past, current and future projects. If 
 Find my resume at the following [link](https://github.com/Fjolle/Portfolio/blob/main/Resume/Resume-Fjolle%20Gjonbalaj.pdf)
 
 ********************************************************************************************************************************************************************
+### Time Series
