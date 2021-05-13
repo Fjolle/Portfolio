@@ -8,6 +8,12 @@ This portfolio is meant to list all of my past, current and future projects. If 
 Find my resume at the following [link](https://github.com/Fjolle/Portfolio/blob/main/Resume/Resume-Fjolle%20Gjonbalaj.pdf)
 
 ********************************************************************************************************************************************************************
+### Data Mining
+* [Problem set 1](https://github.com/Fjolle/Myfirstrepo/blob/main/Problem%20Set%201/FirstDataMiningAssignment.pdf)
+* [Problem set 2](https://github.com/Fjolle/Myfirstrepo/blob/main/Problem%20Set%202/Data_Mining_2_Assignment.pdf)
+* [Problem set 3](https://github.com/Fjolle/Myfirstrepo/blob/main/Problem%20Set%203/Problem%20Set%203.pdf)
+* [Problem set 4](https://github.com/Fjolle/Myfirstrepo/blob/main/Problem%20set%204/4th%20problem%20set.pdf)
+
 ### Time Series
 
 * [Problem set 1](https://github.com/Fjolle/Time-Series/blob/main/Problem%20Set%201/Problem%20Set%201.pdf)
@@ -16,3 +22,5 @@ Find my resume at the following [link](https://github.com/Fjolle/Portfolio/blob/
 * [Problem set 4](https://github.com/Fjolle/Time-Series/blob/main/Problem%20Set%204/Answers%20to%20Assignment%204.pdf)
 * [Problem set 5](https://github.com/Fjolle/Time-Series/blob/main/Problem%20Set%205/Answers%20to%20assignment%205.pdf)
 * [Problem set 6](https://github.com/Fjolle/Time-Series/blob/main/Problem%20Set%206/AnswersPS6.pdf)
+
+
