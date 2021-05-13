@@ -9,3 +9,10 @@ Find my resume at the following [link](https://github.com/Fjolle/Portfolio/blob/
 
 ********************************************************************************************************************************************************************
 ### Time Series
+
+* [Problem set 1](https://github.com/Fjolle/Time-Series/blob/main/Problem%20Set%201/Problem%20Set%201.pdf)
+* [Problem set 2](https://github.com/Fjolle/Time-Series/blob/main/Problem%20Set%202/Problem%20Set%202.pdf)
+* [Problem set 3](https://github.com/Fjolle/Time-Series/blob/main/Problem%20Set%203/Final%20version%20of%20Assignment%203.pdf)
+* [Problem set 4](https://github.com/Fjolle/Time-Series/blob/main/Problem%20Set%204/Answers%20to%20Assignment%204.pdf)
+* [Problem set 5](https://github.com/Fjolle/Time-Series/blob/main/Problem%20Set%205/Answers%20to%20assignment%205.pdf)
+* [Problem set 6](https://github.com/Fjolle/Time-Series/blob/main/Problem%20Set%206/AnswersPS6.pdf)
