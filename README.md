@@ -8,11 +8,9 @@ This portfolio is meant to list all of my past, current and future projects and 
 ********************************************************************************************************************************************************************
 ### Data Mining
 * [Problem set 1](https://github.com/Fjolle/Myfirstrepo/blob/main/Problem%20Set%201/FirstDataMiningAssignment.pdf)
-* [CODE1](https://github.com/Fjolle/Myfirstrepo/blob/main/Problem%20Set%201/FirstDataMiningAssignment.Rmd)
 * [Problem set 2](https://github.com/Fjolle/Myfirstrepo/blob/main/Problem%20Set%202/Data_Mining_2_Assignment.pdf)
 * [Problem set 3](https://github.com/Fjolle/Myfirstrepo/blob/main/Problem%20Set%203/Problem%20Set%203.pdf)
 * [Problem set 4](https://github.com/Fjolle/Myfirstrepo/blob/main/Problem%20set%204/4th%20problem%20set.pdf)
-*  [CODE4](https://github.com/Fjolle/Myfirstrepo/blob/main/Problem%20set%204/PS4.Rmd)
 * [Data Mining Project](https://github.com/Fjolle/Data-Mining-Project/blob/main/Project/Data_Mining_Project.pdf)
 
 
