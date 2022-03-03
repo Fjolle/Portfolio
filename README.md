@@ -32,8 +32,11 @@ This portfolio is meant to list all of my past, current and future projects and 
 
 ### Causal Inference
 * [Regression Discontinuity Design](https://github.com/Fjolle/RDD1/blob/main/Writing/Causalhw1.pdf)
+* [RDD CODE](https://github.com/Fjolle/RDD1/blob/main/Writing/Causalhw1.Rmd)
 * [Difference-in-difference](https://github.com/Fjolle/Diff-in-diff-/blob/main/Writing/Replication2.pdf)
+* [DIFF-IN-DIFF CODE](https://github.com/Fjolle/Diff-in-diff-/blob/main/Writing/Diff_in_diff_replication.Rmd)
 * [Causal Inference Project](https://github.com/Fjolle/Causal-Inference-Project/blob/main/Project/Causal_Inference_Final_Project.pdf)
+* [PROJECT CODE](https://github.com/Fjolle/Causal-Inference-Project/blob/main/Project/Causal%20Inference%20Project.Rmd)
 
 
 
