@@ -16,6 +16,7 @@ This portfolio is meant to list all of my past, current and future projects and 
 * [Problem set 4](https://github.com/Fjolle/Myfirstrepo/blob/main/Problem%20set%204/4th%20problem%20set.pdf)
 * [PROBLEM SET 4 CODE](https://github.com/Fjolle/Myfirstrepo/blob/main/Problem%20set%204/PS4.Rmd)
 * [Data Mining Project](https://github.com/Fjolle/Data-Mining-Project/blob/main/Project/Data_Mining_Project.pdf)
+* [FINAL PROJECT CODE](https://github.com/Fjolle/Data-Mining-Project/blob/main/Project/FinalProject.Rmd)
 
 
 
